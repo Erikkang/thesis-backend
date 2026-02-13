@@ -2,20 +2,21 @@ Skin Analyzer Backend
 ====================
 
 1. Download the "models" folder from Google Drive and place it in the project root.
+   link: https://drive.google.com/drive/folders/1RX8JQQArUccn1cPlXokXmukIT5QF16Tc?usp=sharing
 
-2. Create a virtual environment:
+3. Create a virtual environment:
    python -m venv venv
 
-3. Activate the virtual environment:
+4. Activate the virtual environment:
    Terminal:
      venv\Scripts\activate
    Mac/Linux:
      source venv/bin/activate
 
-4. Install dependencies:
+5. Install dependencies:
    pip install -r requirements.txt
 
-5. Run backend:
+6. Run backend:
    python app.py
 
 Note:
